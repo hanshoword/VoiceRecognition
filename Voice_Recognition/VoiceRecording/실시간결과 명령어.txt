@@ -1,0 +1,1 @@
+HVite -C config.audio -H hmm12/macros -H hmm12/hmmdefs -p -8 -s 16 -w wdnet dict monophones1
